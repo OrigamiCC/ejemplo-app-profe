@@ -1,0 +1,8 @@
+.menuButtons{
+  all: unset;
+  cursor: pointer;
+}
+
+.dropdown-item{
+  width: 80%;
+}
